@@ -48,5 +48,5 @@ Feel free to explore the website and test its various functionalities.
 
 # Contributors
 
-- @Bhavya732
-- @Ravij22
+- [@Bhavya732](https://github.com/Bhavya732)
+- [@Ravij22](https://github.com/Ravij22)
