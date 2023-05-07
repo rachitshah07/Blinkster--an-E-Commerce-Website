@@ -38,11 +38,11 @@ To run the e-commerce website, follow these steps:
 
 Once the website is up and running, you can use it as an e-commerce platform. Here are some key features and functionalities:
 
-- User Registration and Login: Users can create accounts and log in to access personalized features.
-- Product Catalog: Users can browse through a catalog of products and view details such as prices, descriptions, and images.
-- Shopping Cart: Users can add products to their shopping cart and proceed to checkout.
-- Order Placement: Users can place orders for the products in their shopping cart.
-- Payment Processing: Users can make payments using different payment methods.
+* User Registration and Login: Users can create accounts and log in to access personalized features.
+* Product Catalog: Users can browse through a catalog of products and view details such as prices, descriptions, and images.
+* Shopping Cart: Users can add products to their shopping cart and proceed to checkout.
+* Order Placement: Users can place orders for the products in their shopping cart.
+* Payment Processing: Users can make payments using different payment methods.
 
 Feel free to explore the website and test its various functionalities.
 
